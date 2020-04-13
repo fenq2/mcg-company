@@ -3183,27 +3183,27 @@ html {
 /*# sourceMappingURL=bootstrap-grid.min.css.map */
 @font-face {
   font-family: 'OpenSans-Regular';
-  src: url("../fonts/OpenSans/opensans-regular.ttf"); }
+  src: url("../fonts/OpenSans/OpenSans-Regular.ttf"); }
 
 @font-face {
   font-family: 'OpenSans-Bold';
-  src: url("../fonts/OpenSans/opensans-bold.ttf"); }
+  src: url("../fonts/OpenSans/OpenSans-Bold.ttf"); }
 
 @font-face {
   font-family: 'Montserrat-Regular';
-  src: url("../fonts/Montserrat/montserrat-regular.ttf"); }
+  src: url("../fonts/Montserrat/Montserrat-Regular.ttf"); }
 
 @font-face {
   font-family: 'Montserrat-Medium';
-  src: url("../fonts/Montserrat/montserrat-medium.ttf"); }
+  src: url("../fonts/Montserrat/Montserrat-Medium.ttf"); }
 
 @font-face {
   font-family: 'Montserrat-SemiBold';
-  src: url("../fonts/Montserrat/montserrat-semibold.ttf"); }
+  src: url("../fonts/Montserrat/Montserrat-SemiBold.ttf"); }
 
 @font-face {
   font-family: 'Montserrat-Bold';
-  src: url("../fonts/Montserrat/montserrat-bold.ttf"); }
+  src: url("../fonts/Montserrat/Montserrat-Bold.ttf"); }
 
 html {
   font-size: 16px;
